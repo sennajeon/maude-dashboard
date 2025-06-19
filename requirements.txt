@@ -1,0 +1,6 @@
+Streamlit
+pandas
+requests
+plotly
+wordcloud
+python-docx
